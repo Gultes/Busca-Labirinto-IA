@@ -1,9 +1,13 @@
-# Problema de Busca em um Labirinto Utilizando Algoritmo A*
+## Problema de Busca em um Labirinto Utilizando Algoritmo A*
+
+#### Universidade Federal de Ouro Preto
 
 ## Participantes
+-  [Gustavo Estevam Sena (Aluno)](https://github.com/Gultes)
+
 - [Aline Martins Dias (Aluno)](https://github.com/aline-m-dias)
 - [Daniele Cristina Almeida (Aluno)](https://github.com/8dani)
--  [Gustavo Estevam Sena (Aluno)](https://github.com/Gultes)
+
 - Talles Henrique de Medeiros (Orientador)
 
 ## Objetivos
